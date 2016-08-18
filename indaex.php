@@ -10,12 +10,6 @@ echo $data = $mc->get("data");
         <title>ReadSoccerData</title>
         <script src="/project/project/views/js/jquery.js"></script>
         <script>
-// unm =0;
-// setInterval(function()
-//     {
-//         $.get("getdata.php"
-//         );
-//     },60000);
 </script>
     </head>
     <body>
